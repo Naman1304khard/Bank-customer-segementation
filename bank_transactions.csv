@@ -1,0 +1,501 @@
+CustomerID,TransactionDate,TransactionAmount,Age,Gender,City,Account Type
+CUST001,15-01-2025,1553.98,67,Female,Fort Worth,Credit
+CUST002,16-01-2025,3190.6,29,Female,San Jose,Checking
+CUST003,17-01-2025,4103.36,28,Male,San Jose,Savings
+CUST004,18-01-2025,3676.32,67,Female,Houston,Credit
+CUST005,19-01-2025,4203.17,28,Female,Jacksonville,Savings
+CUST006,20-01-2025,3377.14,70,Male,Nashville,Savings
+CUST007,21-01-2025,1620.24,33,Female,Austin,Savings
+CUST008,22-01-2025,4566.36,43,Male,Las Vegas,Savings
+CUST009,23-01-2025,4444.56,57,Female,San Jose,Credit
+CUST010,24-01-2025,1381.79,26,Female,Denver,Checking
+CUST011,25-01-2025,4780.14,23,Male,Dallas,Credit
+CUST012,26-01-2025,4258.19,36,Female,Portland,Credit
+CUST013,27-01-2025,4664,34,Male,Houston,Savings
+CUST014,28-01-2025,1880.46,39,Male,Boston,Savings
+CUST015,29-01-2025,2267.52,59,Female,New York,Savings
+CUST016,30-01-2025,949.88,34,Female,Los Angeles,Checking
+CUST017,31-01-2025,4318.16,62,Male,San Diego,Savings
+CUST018,01-02-2025,4887.16,59,Male,Memphis,Checking
+CUST019,02-02-2025,3106.32,21,Female,Portland,Checking
+CUST020,03-02-2025,4479.11,27,Male,San Diego,Savings
+CUST021,04-02-2025,2675.79,31,Female,Columbus,Checking
+CUST022,05-02-2025,2150.41,28,Female,Chicago,Savings
+CUST023,06-02-2025,4577.93,70,Male,Dallas,Savings
+CUST024,07-02-2025,4733.06,43,Male,Indianapolis,Checking
+CUST025,08-02-2025,3552.89,46,Female,Boston,Credit
+CUST026,09-02-2025,1272.1,49,Male,Detroit,Savings
+CUST027,10-02-2025,1320.46,34,Male,Detroit,Credit
+CUST028,11-02-2025,2200.49,56,Female,El Paso,Checking
+CUST029,12-02-2025,4898.98,33,Female,San Diego,Checking
+CUST030,13-02-2025,1382.96,54,Female,Boston,Credit
+CUST031,14-02-2025,3228.56,50,Male,Louisville,Checking
+CUST032,15-02-2025,3757.44,43,Male,New York,Credit
+CUST033,16-02-2025,1660.1,51,Male,Nashville,Savings
+CUST034,17-02-2025,4179.52,35,Female,Columbus,Credit
+CUST035,18-02-2025,2634.54,31,Female,Las Vegas,Savings
+CUST036,19-02-2025,3954.8,42,Male,Nashville,Savings
+CUST037,20-02-2025,3851.69,18,Female,Houston,Credit
+CUST038,21-02-2025,4313.51,70,Female,Las Vegas,Credit
+CUST039,22-02-2025,3077.85,35,Male,Phoenix,Checking
+CUST040,23-02-2025,2749.65,54,Male,Louisville,Savings
+CUST041,24-02-2025,763.9,63,Female,El Paso,Savings
+CUST042,25-02-2025,2063.8,63,Female,Memphis,Checking
+CUST043,26-02-2025,2238.72,58,Male,Dallas,Credit
+CUST044,27-02-2025,2124.13,18,Male,Dallas,Credit
+CUST045,28-02-2025,2258.72,30,Female,Detroit,Credit
+CUST046,01-03-2025,1753.64,67,Male,Philadelphia,Credit
+CUST047,02-03-2025,3638.7,46,Male,Detroit,Savings
+CUST048,03-03-2025,2977.81,58,Male,Detroit,Savings
+CUST049,04-03-2025,2743.99,65,Male,Las Vegas,Savings
+CUST050,05-03-2025,4944.48,25,Female,Jacksonville,Credit
+CUST051,06-03-2025,1012.7,56,Male,Chicago,Credit
+CUST052,07-03-2025,3149.26,29,Female,Washington,Checking
+CUST053,08-03-2025,2115.64,27,Female,Washington,Savings
+CUST054,09-03-2025,1198.3,42,Female,Las Vegas,Checking
+CUST055,10-03-2025,2551.35,59,Female,Houston,Credit
+CUST056,11-03-2025,2230.27,29,Female,Seattle,Credit
+CUST057,12-03-2025,991.29,19,Male,Houston,Credit
+CUST058,13-03-2025,3689.3,64,Male,Las Vegas,Checking
+CUST059,14-03-2025,3031.88,55,Male,Detroit,Savings
+CUST060,15-03-2025,2987.24,39,Male,Louisville,Credit
+CUST061,16-03-2025,1662.1,31,Male,San Francisco,Savings
+CUST062,17-03-2025,4521.99,52,Female,El Paso,Checking
+CUST063,18-03-2025,4147.4,50,Male,San Diego,Checking
+CUST064,19-03-2025,3079.21,39,Male,Charlotte,Credit
+CUST065,20-03-2025,787.25,66,Female,New York,Checking
+CUST066,21-03-2025,4389.32,40,Male,Indianapolis,Savings
+CUST067,22-03-2025,1018.71,25,Male,Louisville,Checking
+CUST068,23-03-2025,3157.17,22,Male,San Diego,Savings
+CUST069,24-03-2025,3682.65,69,Female,Oklahoma City,Savings
+CUST070,25-03-2025,4290.63,44,Male,Indianapolis,Checking
+CUST071,26-03-2025,4542.75,41,Male,Philadelphia,Credit
+CUST072,27-03-2025,3053.53,27,Male,Nashville,Savings
+CUST073,28-03-2025,4730.2,69,Male,New York,Credit
+CUST074,29-03-2025,2330.78,23,Male,Charlotte,Savings
+CUST075,30-03-2025,867.51,22,Female,New York,Savings
+CUST076,31-03-2025,3659.46,56,Male,Houston,Credit
+CUST077,01-04-2025,2712.98,69,Male,Denver,Credit
+CUST078,02-04-2025,4825.65,34,Male,Louisville,Savings
+CUST079,03-04-2025,3950.91,44,Male,Philadelphia,Checking
+CUST080,04-04-2025,4463.6,59,Female,Los Angeles,Credit
+CUST081,05-04-2025,4481.47,53,Female,Washington,Credit
+CUST082,06-04-2025,4010.58,42,Female,Charlotte,Checking
+CUST083,07-04-2025,4203.17,36,Male,San Diego,Checking
+CUST084,08-04-2025,1587.56,62,Female,Seattle,Savings
+CUST085,09-04-2025,1631.58,67,Male,Los Angeles,Checking
+CUST086,10-04-2025,2672.93,30,Male,San Diego,Credit
+CUST087,11-04-2025,4599.45,64,Male,San Jose,Checking
+CUST088,12-04-2025,616.86,65,Female,Dallas,Checking
+CUST089,13-04-2025,1829.98,36,Male,San Jose,Checking
+CUST090,14-04-2025,4601.24,29,Male,Phoenix,Savings
+CUST091,15-04-2025,4926.8,69,Female,San Jose,Credit
+CUST092,16-04-2025,3949.71,19,Female,New York,Savings
+CUST093,17-04-2025,3551.18,34,Female,San Francisco,Credit
+CUST094,18-04-2025,4138.26,28,Male,Oklahoma City,Savings
+CUST095,19-04-2025,2499.61,34,Male,Fort Worth,Checking
+CUST096,20-04-2025,2835.68,45,Male,Austin,Savings
+CUST097,21-04-2025,1706.04,40,Male,Indianapolis,Credit
+CUST098,22-04-2025,3160.81,68,Male,San Diego,Credit
+CUST099,23-04-2025,1468.37,23,Female,Chicago,Credit
+CUST100,24-04-2025,4973.14,19,Female,Nashville,Credit
+CUST101,25-04-2025,1114.72,37,Female,Los Angeles,Savings
+CUST102,26-04-2025,1064.44,69,Female,Nashville,Checking
+CUST103,27-04-2025,4483.82,51,Female,Portland,Checking
+CUST104,28-04-2025,1889.92,31,Male,Nashville,Savings
+CUST105,29-04-2025,4199.61,53,Male,Portland,Savings
+CUST106,30-04-2025,3376.77,70,Male,Seattle,Savings
+CUST107,01-05-2025,2419.86,63,Male,Indianapolis,Credit
+CUST108,02-05-2025,1986.83,45,Male,Chicago,Savings
+CUST109,03-05-2025,1581.24,66,Male,Houston,Savings
+CUST110,04-05-2025,1128.22,46,Male,Jacksonville,Checking
+CUST111,05-05-2025,643.66,38,Male,Memphis,Savings
+CUST112,06-05-2025,794.06,28,Male,Dallas,Checking
+CUST113,07-05-2025,2750.43,44,Female,Los Angeles,Checking
+CUST114,08-05-2025,1841.03,34,Female,Denver,Savings
+CUST115,09-05-2025,909.52,55,Male,San Antonio,Savings
+CUST116,10-05-2025,3788.76,51,Female,Columbus,Checking
+CUST117,11-05-2025,2771.06,51,Male,San Francisco,Savings
+CUST118,12-05-2025,1582.84,27,Male,Memphis,Credit
+CUST119,13-05-2025,2159.48,41,Male,San Jose,Savings
+CUST120,14-05-2025,996.96,63,Male,San Diego,Savings
+CUST121,15-05-2025,1469.27,19,Male,Philadelphia,Savings
+CUST122,16-05-2025,651.82,56,Male,Detroit,Credit
+CUST123,17-05-2025,2343.22,44,Female,Austin,Credit
+CUST124,18-05-2025,2918.29,18,Male,Austin,Credit
+CUST125,19-05-2025,1638.42,34,Male,Louisville,Savings
+CUST126,20-05-2025,877.16,29,Male,Denver,Checking
+CUST127,21-05-2025,2623.62,63,Female,San Jose,Checking
+CUST128,22-05-2025,3796.42,36,Female,Louisville,Credit
+CUST129,23-05-2025,4438.67,61,Female,Oklahoma City,Checking
+CUST130,24-05-2025,622.35,25,Female,Boston,Checking
+CUST131,25-05-2025,1200.61,22,Female,Memphis,Savings
+CUST132,26-05-2025,4909.37,40,Male,El Paso,Checking
+CUST133,27-05-2025,3523.47,21,Female,Fort Worth,Savings
+CUST134,28-05-2025,1077.56,45,Male,Houston,Credit
+CUST135,29-05-2025,4959,42,Male,Phoenix,Checking
+CUST136,30-05-2025,3705.76,51,Female,San Diego,Savings
+CUST137,31-05-2025,3550.85,50,Male,Fort Worth,Savings
+CUST138,01-06-2025,3705.47,58,Female,Austin,Checking
+CUST139,02-06-2025,4909.15,36,Female,El Paso,Credit
+CUST140,03-06-2025,2413.57,59,Male,Portland,Savings
+CUST141,04-06-2025,988.08,70,Female,New York,Credit
+CUST142,05-06-2025,4620.92,54,Female,Nashville,Credit
+CUST143,06-06-2025,3673.62,63,Male,Charlotte,Savings
+CUST144,07-06-2025,2881.94,47,Female,Houston,Savings
+CUST145,08-06-2025,3210.11,67,Male,San Diego,Credit
+CUST146,09-06-2025,4821.84,62,Female,Jacksonville,Savings
+CUST147,10-06-2025,1737.43,30,Female,Washington,Savings
+CUST148,11-06-2025,3968.23,46,Female,San Francisco,Checking
+CUST149,12-06-2025,2284.2,64,Male,Nashville,Checking
+CUST150,13-06-2025,4133.42,53,Female,Memphis,Savings
+CUST151,14-06-2025,801.19,31,Male,New York,Savings
+CUST152,15-06-2025,1178.82,66,Male,Austin,Checking
+CUST153,16-06-2025,2034.25,45,Female,Louisville,Savings
+CUST154,17-06-2025,3647.01,57,Female,El Paso,Credit
+CUST155,18-06-2025,2693.05,55,Female,El Paso,Savings
+CUST156,19-06-2025,4635.95,40,Female,Phoenix,Savings
+CUST157,20-06-2025,3662.81,19,Male,Jacksonville,Credit
+CUST158,21-06-2025,2518.23,47,Female,Boston,Savings
+CUST159,22-06-2025,1963.32,44,Male,New York,Savings
+CUST160,23-06-2025,2331.3,62,Female,San Diego,Checking
+CUST161,24-06-2025,4617.57,64,Male,Philadelphia,Checking
+CUST162,25-06-2025,1757.58,35,Female,Jacksonville,Credit
+CUST163,26-06-2025,586.89,26,Male,Oklahoma City,Credit
+CUST164,27-06-2025,1844.17,49,Male,El Paso,Savings
+CUST165,28-06-2025,1508.01,62,Female,Fort Worth,Savings
+CUST166,29-06-2025,4836.37,22,Female,San Diego,Savings
+CUST167,30-06-2025,4123.65,33,Male,Oklahoma City,Checking
+CUST168,01-07-2025,3631.64,46,Female,Austin,Credit
+CUST169,02-07-2025,3714.64,69,Female,Los Angeles,Credit
+CUST170,03-07-2025,3631.12,57,Female,Nashville,Credit
+CUST171,04-07-2025,1909,24,Male,Philadelphia,Checking
+CUST172,05-07-2025,1440.92,50,Male,Las Vegas,Checking
+CUST173,06-07-2025,2473.74,67,Male,El Paso,Checking
+CUST174,07-07-2025,1505.19,61,Male,San Francisco,Savings
+CUST175,08-07-2025,4835.26,25,Female,Fort Worth,Checking
+CUST176,09-07-2025,718.86,29,Female,Chicago,Credit
+CUST177,10-07-2025,1722.17,61,Male,Philadelphia,Checking
+CUST178,11-07-2025,4515.01,64,Male,Charlotte,Checking
+CUST179,12-07-2025,1524.51,65,Female,Chicago,Credit
+CUST180,13-07-2025,4671.8,35,Female,San Jose,Credit
+CUST181,14-07-2025,2471.74,47,Male,Dallas,Credit
+CUST182,15-07-2025,4393.29,65,Female,Indianapolis,Credit
+CUST183,16-07-2025,3548.96,65,Female,Indianapolis,Savings
+CUST184,17-07-2025,3784.45,38,Male,Austin,Checking
+CUST185,18-07-2025,3156.3,19,Female,San Diego,Checking
+CUST186,19-07-2025,4912.36,22,Female,Indianapolis,Savings
+CUST187,20-07-2025,646.63,55,Female,Portland,Credit
+CUST188,21-07-2025,4543.95,63,Male,Chicago,Checking
+CUST189,22-07-2025,1131.2,55,Female,Jacksonville,Credit
+CUST190,23-07-2025,1811.77,56,Female,Indianapolis,Savings
+CUST191,24-07-2025,1227.94,47,Female,Portland,Checking
+CUST192,25-07-2025,608.49,20,Female,San Jose,Checking
+CUST193,26-07-2025,886.05,55,Female,Louisville,Savings
+CUST194,27-07-2025,3158.25,70,Male,Boston,Credit
+CUST195,28-07-2025,1809.01,20,Male,Fort Worth,Credit
+CUST196,29-07-2025,4016.42,60,Male,El Paso,Checking
+CUST197,30-07-2025,4050.68,56,Male,Seattle,Credit
+CUST198,31-07-2025,1633.25,44,Female,Los Angeles,Credit
+CUST199,01-08-2025,4722.67,54,Female,Los Angeles,Credit
+CUST200,02-08-2025,4289.31,18,Male,Charlotte,Checking
+CUST201,03-08-2025,602.76,69,Male,San Jose,Checking
+CUST202,04-08-2025,4661.44,44,Male,Nashville,Savings
+CUST203,05-08-2025,4296.7,63,Female,New York,Checking
+CUST204,06-08-2025,4378.3,22,Male,Indianapolis,Credit
+CUST205,07-08-2025,1308.04,58,Male,Oklahoma City,Checking
+CUST206,08-08-2025,4696.54,34,Female,Washington,Credit
+CUST207,09-08-2025,2381.2,29,Female,Charlotte,Checking
+CUST208,10-08-2025,3350.64,66,Male,Fort Worth,Checking
+CUST209,11-08-2025,1999.16,53,Male,Philadelphia,Credit
+CUST210,12-08-2025,616.9,51,Male,Indianapolis,Credit
+CUST211,13-08-2025,3710.89,49,Female,Indianapolis,Savings
+CUST212,14-08-2025,2414.88,34,Male,San Francisco,Savings
+CUST213,15-08-2025,3726.02,56,Female,Oklahoma City,Credit
+CUST214,16-08-2025,4543.03,67,Male,San Francisco,Credit
+CUST215,17-08-2025,4404.59,31,Female,Boston,Credit
+CUST216,18-08-2025,2512.55,63,Female,Houston,Savings
+CUST217,19-08-2025,1733.86,47,Female,Portland,Checking
+CUST218,20-08-2025,1019.69,55,Female,El Paso,Savings
+CUST219,21-08-2025,3238.62,54,Male,Portland,Savings
+CUST220,22-08-2025,4364.57,70,Female,Los Angeles,Checking
+CUST221,23-08-2025,4220.28,32,Female,Oklahoma City,Savings
+CUST222,24-08-2025,4107.77,37,Female,Jacksonville,Credit
+CUST223,25-08-2025,1769.31,51,Female,Nashville,Credit
+CUST224,26-08-2025,1976.68,29,Male,San Antonio,Credit
+CUST225,27-08-2025,1838.04,18,Female,Austin,Checking
+CUST226,28-08-2025,529.81,54,Female,San Francisco,Credit
+CUST227,29-08-2025,979.26,38,Male,Denver,Checking
+CUST228,30-08-2025,2947.81,54,Male,Charlotte,Savings
+CUST229,31-08-2025,2753.48,63,Male,Columbus,Savings
+CUST230,01-09-2025,4794.97,18,Female,Los Angeles,Checking
+CUST231,02-09-2025,1395.57,59,Female,New York,Checking
+CUST232,03-09-2025,1899.93,18,Male,Charlotte,Checking
+CUST233,04-09-2025,2301.02,44,Female,Oklahoma City,Credit
+CUST234,05-09-2025,502.3,34,Female,New York,Savings
+CUST235,06-09-2025,696.62,39,Female,Phoenix,Checking
+CUST236,07-09-2025,3061.9,35,Male,Los Angeles,Savings
+CUST237,08-09-2025,3044.02,64,Male,Austin,Savings
+CUST238,09-09-2025,3942.1,22,Male,San Diego,Credit
+CUST239,10-09-2025,4695.39,57,Female,Louisville,Savings
+CUST240,11-09-2025,1447.52,45,Female,Los Angeles,Credit
+CUST241,12-09-2025,1662.94,33,Female,San Francisco,Checking
+CUST242,13-09-2025,4006.25,40,Female,Los Angeles,Checking
+CUST243,14-09-2025,3676.61,34,Female,Memphis,Savings
+CUST244,15-09-2025,3528.5,49,Male,Philadelphia,Credit
+CUST245,16-09-2025,4089,22,Male,Memphis,Savings
+CUST246,17-09-2025,817.77,64,Female,San Diego,Checking
+CUST247,18-09-2025,2379.79,42,Female,Las Vegas,Savings
+CUST248,19-09-2025,1498.6,31,Male,Louisville,Checking
+CUST249,20-09-2025,714.32,39,Male,San Jose,Checking
+CUST250,21-09-2025,794.38,18,Male,Austin,Checking
+CUST251,22-09-2025,4216.68,67,Male,Detroit,Savings
+CUST252,23-09-2025,4058.21,64,Female,Louisville,Credit
+CUST253,24-09-2025,2168.56,43,Female,Houston,Checking
+CUST254,25-09-2025,3934.04,61,Male,Dallas,Checking
+CUST255,26-09-2025,2926.61,41,Female,San Diego,Checking
+CUST256,27-09-2025,3938.92,51,Female,Houston,Savings
+CUST257,28-09-2025,4366.66,24,Female,Memphis,Checking
+CUST258,29-09-2025,4191.42,66,Female,Philadelphia,Credit
+CUST259,30-09-2025,3496.01,52,Male,Las Vegas,Checking
+CUST260,01-10-2025,3827.3,31,Male,New York,Checking
+CUST261,02-10-2025,4403.66,58,Female,San Jose,Savings
+CUST262,03-10-2025,2686.14,45,Male,Phoenix,Credit
+CUST263,04-10-2025,762.83,70,Male,Chicago,Savings
+CUST264,05-10-2025,1439.16,70,Male,Columbus,Credit
+CUST265,06-10-2025,3364.12,65,Female,Austin,Savings
+CUST266,07-10-2025,3473.36,34,Female,San Jose,Credit
+CUST267,08-10-2025,1880.65,50,Male,Boston,Savings
+CUST268,09-10-2025,3367.38,64,Female,Portland,Checking
+CUST269,10-10-2025,3926.65,29,Female,Las Vegas,Checking
+CUST270,11-10-2025,2812.4,44,Male,Phoenix,Credit
+CUST271,12-10-2025,4509.36,47,Female,Phoenix,Checking
+CUST272,13-10-2025,1539.46,41,Female,Jacksonville,Savings
+CUST273,14-10-2025,1999.7,23,Female,Jacksonville,Savings
+CUST274,15-10-2025,3515.08,60,Female,Seattle,Checking
+CUST275,16-10-2025,2522.44,28,Male,El Paso,Savings
+CUST276,17-10-2025,4795.86,36,Female,El Paso,Savings
+CUST277,18-10-2025,1564.51,37,Male,Houston,Checking
+CUST278,19-10-2025,3706.22,28,Female,Oklahoma City,Checking
+CUST279,20-10-2025,1154.63,26,Male,New York,Savings
+CUST280,21-10-2025,999.48,29,Female,Indianapolis,Savings
+CUST281,22-10-2025,3976.55,66,Male,Nashville,Checking
+CUST282,23-10-2025,1289.13,48,Female,San Francisco,Credit
+CUST283,24-10-2025,1460.78,56,Male,Philadelphia,Checking
+CUST284,25-10-2025,3903.49,39,Male,Charlotte,Credit
+CUST285,26-10-2025,1194.44,50,Female,San Jose,Savings
+CUST286,27-10-2025,1199.3,56,Female,Phoenix,Savings
+CUST287,28-10-2025,2343.44,62,Male,Washington,Checking
+CUST288,29-10-2025,820.24,28,Male,Washington,Checking
+CUST289,30-10-2025,3022.4,66,Female,Denver,Credit
+CUST290,31-10-2025,2957.19,21,Male,Memphis,Savings
+CUST291,01-11-2025,1968.94,47,Male,Seattle,Credit
+CUST292,02-11-2025,2741.89,29,Male,Las Vegas,Credit
+CUST293,03-11-2025,978.5,25,Male,Dallas,Savings
+CUST294,04-11-2025,1865.44,63,Female,Detroit,Credit
+CUST295,05-11-2025,1024.59,43,Male,Jacksonville,Credit
+CUST296,06-11-2025,1155.8,44,Female,Nashville,Savings
+CUST297,07-11-2025,525.08,60,Female,Los Angeles,Checking
+CUST298,08-11-2025,3053.89,40,Male,Indianapolis,Checking
+CUST299,09-11-2025,4414.15,34,Male,Memphis,Checking
+CUST300,10-11-2025,2852.1,60,Female,Detroit,Checking
+CUST301,11-11-2025,1794.43,32,Male,Dallas,Credit
+CUST302,12-11-2025,1768.27,38,Male,Los Angeles,Checking
+CUST303,13-11-2025,4988.7,39,Female,San Diego,Savings
+CUST304,14-11-2025,4187.48,63,Male,Boston,Checking
+CUST305,15-11-2025,4777.12,28,Male,Charlotte,Credit
+CUST306,16-11-2025,4178.66,61,Female,Louisville,Savings
+CUST307,17-11-2025,1093.05,43,Female,Oklahoma City,Savings
+CUST308,18-11-2025,2789.44,29,Male,Philadelphia,Credit
+CUST309,19-11-2025,4338.17,67,Female,Philadelphia,Credit
+CUST310,20-11-2025,1359.95,52,Female,Dallas,Checking
+CUST311,21-11-2025,869.57,32,Female,San Jose,Checking
+CUST312,22-11-2025,2835.93,20,Female,Charlotte,Credit
+CUST313,23-11-2025,4827.04,38,Female,New York,Credit
+CUST314,24-11-2025,2623.42,33,Female,San Antonio,Checking
+CUST315,25-11-2025,3529.2,55,Female,Houston,Credit
+CUST316,26-11-2025,2289.78,58,Male,New York,Savings
+CUST317,27-11-2025,1842.7,20,Female,San Antonio,Checking
+CUST318,28-11-2025,4173.1,41,Male,Fort Worth,Credit
+CUST319,29-11-2025,2336.15,22,Male,Houston,Credit
+CUST320,30-11-2025,3523.41,23,Male,Dallas,Checking
+CUST321,01-12-2025,4947.42,65,Male,El Paso,Savings
+CUST322,02-12-2025,2306.75,45,Female,Los Angeles,Credit
+CUST323,03-12-2025,2152.73,69,Female,Philadelphia,Savings
+CUST324,04-12-2025,648.12,33,Male,El Paso,Credit
+CUST325,05-12-2025,3695.48,23,Male,San Diego,Credit
+CUST326,06-12-2025,3944.07,19,Female,Los Angeles,Savings
+CUST327,07-12-2025,3225.91,24,Male,Jacksonville,Credit
+CUST328,08-12-2025,3682.78,31,Male,Detroit,Checking
+CUST329,09-12-2025,3911.01,31,Female,Portland,Credit
+CUST330,10-12-2025,4155.06,40,Male,Philadelphia,Credit
+CUST331,11-12-2025,4089.62,59,Male,Louisville,Checking
+CUST332,12-12-2025,1385.54,36,Female,Indianapolis,Credit
+CUST333,13-12-2025,1396.34,21,Female,Jacksonville,Credit
+CUST334,14-12-2025,2812.19,21,Male,Phoenix,Savings
+CUST335,15-12-2025,4446.37,18,Female,Denver,Credit
+CUST336,16-12-2025,1826.79,56,Female,Portland,Checking
+CUST337,17-12-2025,3450.69,33,Male,San Diego,Credit
+CUST338,18-12-2025,2992.61,52,Female,Chicago,Credit
+CUST339,19-12-2025,3679.44,37,Female,Dallas,Checking
+CUST340,20-12-2025,3397.73,35,Female,Memphis,Checking
+CUST341,21-12-2025,2172.6,34,Male,Houston,Checking
+CUST342,22-12-2025,4361.09,36,Male,Charlotte,Savings
+CUST343,23-12-2025,4193.5,51,Male,San Francisco,Savings
+CUST344,24-12-2025,3229.54,50,Male,Austin,Credit
+CUST345,25-12-2025,2135.78,46,Female,Phoenix,Savings
+CUST346,26-12-2025,966.1,46,Female,Las Vegas,Checking
+CUST347,27-12-2025,3356.53,56,Female,Las Vegas,Credit
+CUST348,28-12-2025,998.07,64,Female,Nashville,Checking
+CUST349,29-12-2025,3428.63,22,Male,Detroit,Savings
+CUST350,30-12-2025,2786.8,65,Male,Portland,Savings
+CUST351,31-12-2025,1384.5,22,Male,Fort Worth,Checking
+CUST352,01-01-2026,1037.89,43,Male,San Diego,Checking
+CUST353,02-01-2026,3320.75,20,Female,Dallas,Credit
+CUST354,03-01-2026,716.05,50,Male,Charlotte,Savings
+CUST355,04-01-2026,3678.34,50,Male,Phoenix,Checking
+CUST356,05-01-2026,1693.78,20,Male,Columbus,Checking
+CUST357,06-01-2026,3255.03,50,Female,San Antonio,Checking
+CUST358,07-01-2026,3710.06,32,Male,Dallas,Checking
+CUST359,08-01-2026,2407.2,66,Female,Charlotte,Checking
+CUST360,09-01-2026,1230.7,69,Female,San Antonio,Savings
+CUST361,10-01-2026,2047.6,57,Female,Nashville,Checking
+CUST362,11-01-2026,4699.46,63,Male,Louisville,Credit
+CUST363,12-01-2026,2708.22,54,Female,Louisville,Credit
+CUST364,13-01-2026,4519.78,69,Female,Memphis,Savings
+CUST365,14-01-2026,4006.85,54,Male,Charlotte,Checking
+CUST366,15-01-2026,3566.69,20,Male,Las Vegas,Savings
+CUST367,16-01-2026,1801.08,54,Male,San Jose,Checking
+CUST368,17-01-2026,4186.73,27,Female,Dallas,Savings
+CUST369,18-01-2026,4898.04,44,Male,New York,Checking
+CUST370,19-01-2026,613.86,55,Male,Columbus,Savings
+CUST371,20-01-2026,4348.68,63,Male,Dallas,Savings
+CUST372,21-01-2026,2829.04,44,Female,Austin,Checking
+CUST373,22-01-2026,1233.17,32,Male,Jacksonville,Checking
+CUST374,23-01-2026,1468.04,32,Female,Louisville,Savings
+CUST375,24-01-2026,2071.35,52,Male,Austin,Checking
+CUST376,25-01-2026,3926.55,52,Male,New York,Credit
+CUST377,26-01-2026,3171.35,38,Female,Columbus,Savings
+CUST378,27-01-2026,3150.59,20,Female,Austin,Checking
+CUST379,28-01-2026,3361.55,40,Male,Las Vegas,Checking
+CUST380,29-01-2026,1178.77,43,Male,Nashville,Savings
+CUST381,30-01-2026,4627.13,46,Male,Philadelphia,Savings
+CUST382,31-01-2026,1062.95,49,Female,El Paso,Savings
+CUST383,01-02-2026,3408,55,Male,Louisville,Savings
+CUST384,02-02-2026,4914.4,68,Female,San Jose,Savings
+CUST385,03-02-2026,1590.48,59,Male,Oklahoma City,Checking
+CUST386,04-02-2026,675.97,61,Female,Portland,Savings
+CUST387,05-02-2026,1239.18,39,Male,Indianapolis,Savings
+CUST388,06-02-2026,890.16,25,Male,Portland,Checking
+CUST389,07-02-2026,1157.68,20,Female,Indianapolis,Credit
+CUST390,08-02-2026,4726.93,42,Male,San Antonio,Credit
+CUST391,09-02-2026,4701.53,26,Male,Charlotte,Savings
+CUST392,10-02-2026,3119.77,49,Female,Dallas,Checking
+CUST393,11-02-2026,2015.22,32,Female,Las Vegas,Savings
+CUST394,12-02-2026,2568.3,23,Female,Indianapolis,Checking
+CUST395,13-02-2026,1568.01,60,Female,Charlotte,Savings
+CUST396,14-02-2026,3394.81,20,Female,Phoenix,Savings
+CUST397,15-02-2026,4348.46,24,Female,Charlotte,Savings
+CUST398,16-02-2026,3957.08,43,Male,Chicago,Savings
+CUST399,17-02-2026,851.6,41,Female,Memphis,Savings
+CUST400,18-02-2026,3503.88,45,Female,Las Vegas,Savings
+CUST401,19-02-2026,1291.77,33,Male,Portland,Credit
+CUST402,20-02-2026,4286.03,56,Female,Fort Worth,Checking
+CUST403,21-02-2026,2288.36,29,Female,Portland,Savings
+CUST404,22-02-2026,3216.4,43,Male,Fort Worth,Savings
+CUST405,23-02-2026,1228.29,61,Male,Las Vegas,Credit
+CUST406,24-02-2026,3390.71,25,Male,Portland,Credit
+CUST407,25-02-2026,3836.61,29,Female,Denver,Credit
+CUST408,26-02-2026,1476.74,26,Female,Chicago,Checking
+CUST409,27-02-2026,2855.82,54,Female,Portland,Checking
+CUST410,28-02-2026,1122.66,57,Male,Dallas,Credit
+CUST411,01-03-2026,970.85,62,Male,Louisville,Checking
+CUST412,02-03-2026,1758.31,65,Male,Austin,Credit
+CUST413,03-03-2026,3770.33,48,Female,San Diego,Checking
+CUST414,04-03-2026,715.15,22,Male,Columbus,Checking
+CUST415,05-03-2026,4569.39,57,Male,Seattle,Savings
+CUST416,06-03-2026,1050.44,58,Male,Los Angeles,Checking
+CUST417,07-03-2026,1647.11,53,Female,Seattle,Checking
+CUST418,08-03-2026,577.36,25,Female,Columbus,Credit
+CUST419,09-03-2026,2812.01,56,Male,Detroit,Checking
+CUST420,10-03-2026,1136.09,60,Male,San Jose,Savings
+CUST421,11-03-2026,1963.72,40,Female,Portland,Credit
+CUST422,12-03-2026,1017.52,20,Female,El Paso,Checking
+CUST423,13-03-2026,4940.18,44,Male,San Jose,Savings
+CUST424,14-03-2026,4022.71,52,Male,Nashville,Savings
+CUST425,15-03-2026,4427.64,36,Female,Dallas,Credit
+CUST426,16-03-2026,4557.81,49,Female,Philadelphia,Savings
+CUST427,17-03-2026,1124.68,46,Female,Las Vegas,Checking
+CUST428,18-03-2026,3486.96,51,Female,Phoenix,Credit
+CUST429,19-03-2026,3683.43,55,Male,Austin,Savings
+CUST430,20-03-2026,4814.57,39,Male,Chicago,Checking
+CUST431,21-03-2026,4894.61,50,Male,Fort Worth,Savings
+CUST432,22-03-2026,4564.21,54,Male,San Antonio,Savings
+CUST433,23-03-2026,3782.73,60,Female,El Paso,Credit
+CUST434,24-03-2026,1268.41,53,Female,Washington,Credit
+CUST435,25-03-2026,2427.3,41,Female,Las Vegas,Checking
+CUST436,26-03-2026,2560.96,37,Female,San Antonio,Checking
+CUST437,27-03-2026,4341.31,39,Female,Houston,Checking
+CUST438,28-03-2026,2583.18,19,Male,Philadelphia,Savings
+CUST439,29-03-2026,1840.29,65,Male,Indianapolis,Savings
+CUST440,30-03-2026,723.76,45,Male,San Diego,Savings
+CUST441,31-03-2026,3206.34,58,Male,Denver,Checking
+CUST442,01-04-2026,1789.36,68,Female,Washington,Credit
+CUST443,02-04-2026,1040.35,56,Female,Chicago,Savings
+CUST444,03-04-2026,4218.38,66,Female,Denver,Checking
+CUST445,04-04-2026,3004.09,44,Male,Oklahoma City,Savings
+CUST446,05-04-2026,3681.57,33,Female,Charlotte,Checking
+CUST447,06-04-2026,1393.28,43,Male,Denver,Credit
+CUST448,07-04-2026,4865,25,Male,San Diego,Savings
+CUST449,08-04-2026,4395.55,30,Female,Columbus,Savings
+CUST450,09-04-2026,3200.97,41,Male,Portland,Savings
+CUST451,10-04-2026,2322.15,36,Female,Chicago,Checking
+CUST452,11-04-2026,1835.4,36,Male,Chicago,Savings
+CUST453,12-04-2026,2865.85,19,Male,Los Angeles,Savings
+CUST454,13-04-2026,3456.34,44,Female,Indianapolis,Credit
+CUST455,14-04-2026,4303.21,51,Female,San Francisco,Savings
+CUST456,15-04-2026,671.07,32,Female,Phoenix,Checking
+CUST457,16-04-2026,3523.56,21,Female,San Antonio,Savings
+CUST458,17-04-2026,1844.42,31,Female,Dallas,Credit
+CUST459,18-04-2026,2477.44,40,Female,San Diego,Checking
+CUST460,19-04-2026,2684.63,39,Male,Philadelphia,Checking
+CUST461,20-04-2026,2683.39,57,Male,Fort Worth,Credit
+CUST462,21-04-2026,1752.6,69,Male,Louisville,Checking
+CUST463,22-04-2026,764.41,35,Female,Memphis,Credit
+CUST464,23-04-2026,4977.23,55,Male,San Francisco,Savings
+CUST465,24-04-2026,2187.3,23,Female,New York,Checking
+CUST466,25-04-2026,1142.26,29,Female,El Paso,Credit
+CUST467,26-04-2026,2228.23,49,Female,Columbus,Savings
+CUST468,27-04-2026,2772.13,28,Male,Austin,Checking
+CUST469,28-04-2026,3328.83,29,Male,Houston,Savings
+CUST470,29-04-2026,4965.28,37,Male,Louisville,Credit
+CUST471,30-04-2026,3973.51,47,Male,Las Vegas,Savings
+CUST472,01-05-2026,4319.37,49,Male,Houston,Savings
+CUST473,02-05-2026,532.05,51,Male,Seattle,Credit
+CUST474,03-05-2026,1104.19,59,Male,El Paso,Savings
+CUST475,04-05-2026,2020.7,22,Male,Phoenix,Checking
+CUST476,05-05-2026,4794.61,19,Female,Las Vegas,Savings
+CUST477,06-05-2026,939.69,47,Male,Chicago,Checking
+CUST478,07-05-2026,3794.62,33,Male,Dallas,Savings
+CUST479,08-05-2026,3732.56,22,Female,Oklahoma City,Credit
+CUST480,09-05-2026,1432.02,53,Male,Seattle,Checking
+CUST481,10-05-2026,4249.25,68,Female,Detroit,Credit
+CUST482,11-05-2026,1016.35,67,Female,Columbus,Credit
+CUST483,12-05-2026,619.92,21,Female,San Diego,Credit
+CUST484,13-05-2026,3254.75,30,Male,Houston,Credit
+CUST485,14-05-2026,2845.82,33,Female,Seattle,Credit
+CUST486,15-05-2026,910.05,61,Female,New York,Savings
+CUST487,16-05-2026,3038.77,28,Female,Dallas,Checking
+CUST488,17-05-2026,1081.55,46,Male,Fort Worth,Checking
+CUST489,18-05-2026,898.06,59,Male,Chicago,Credit
+CUST490,19-05-2026,3306.29,35,Male,San Diego,Savings
+CUST491,20-05-2026,1398.07,45,Female,Jacksonville,Savings
+CUST492,21-05-2026,4612.66,45,Male,Austin,Checking
+CUST493,22-05-2026,578.72,44,Female,Nashville,Credit
+CUST494,23-05-2026,661.97,69,Male,Houston,Checking
+CUST495,24-05-2026,2053.92,68,Male,San Antonio,Savings
+CUST496,25-05-2026,3304.6,55,Female,San Diego,Credit
+CUST497,26-05-2026,4346.8,65,Female,Memphis,Credit
+CUST498,27-05-2026,1451.91,18,Female,Los Angeles,Credit
+CUST499,28-05-2026,3215.02,33,Male,Washington,Savings
+CUST500,29-05-2026,4524.21,40,Female,San Diego,Savings
